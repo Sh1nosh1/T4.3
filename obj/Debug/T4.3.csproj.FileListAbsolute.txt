@@ -1,0 +1,8 @@
+D:\ОАиП\T4.3\bin\Debug\T4.3.exe.config
+D:\ОАиП\T4.3\bin\Debug\T4.3.exe
+D:\ОАиП\T4.3\bin\Debug\T4.3.pdb
+D:\ОАиП\T4.3\obj\Debug\T4.3.csproj.AssemblyReference.cache
+D:\ОАиП\T4.3\obj\Debug\T4.3.csproj.SuggestedBindingRedirects.cache
+D:\ОАиП\T4.3\obj\Debug\T4.3.csproj.CoreCompileInputs.cache
+D:\ОАиП\T4.3\obj\Debug\T4.3.exe
+D:\ОАиП\T4.3\obj\Debug\T4.3.pdb
